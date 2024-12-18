@@ -1,4 +1,4 @@
-  const apiUrl = "http://fi4.bot-hosting.net:22869/TestHubChatgptV4?msg=";
+  const apiUrl = "https://triple.kys.gay/api/Chatgpt/v4/?msg=";
   const rulesUrl = "https://raw.githubusercontent.com/DATEDATEDATEDATEDATE/DATEDATEDATEDATEDATEDATWDARWDATEDATEDATEDATE/refs/heads/main/rules.txt";
   const fallbackRulesUrl = "https://ribbon-amplified-conga.glitch.me/rules.txt";  // URL de fallback
 
