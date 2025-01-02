@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "pack equipe scripts~❎",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/jKdp8xg6\"))()",
+    "name": "pack equipe scripts",
+    "senha": null
+  },
+  {
+    "nome": "TekScripts - só um carro ok~❎",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/TBUZj0Vm\"))()",
+    "name": "TekScripts - só um carro ok",
+    "senha": null
+  },
+  {
+    "nome": "teleknise tutorial~❎",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/sB8wHbpx\"))()",
+    "name": "teleknise tutorial",
+    "senha": null
+  },
+  {
+    "nome": "tek-Aimbot Button V2~✅",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Q1Kpbqqm\"))()",
+    "name": "aimbot-betaV2",
+    "senha": "freebeta827"
+  },
+  {
+    "nome": "spam velocity animações~❎",
+    "conteudo": "loadstring(game:HttpGet('https://pastebin.com/raw/50fi2Fdc'))()",
+    "name": "spam velocity animações",
+    "senha": null
+  },
+  {
+    "nome": "Pack animações inicialização Tek~❎",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/NhHbxr3p\"))()",
+    "name": "Pack animações inicialização Tek",
+    "senha": null
+  }
+]
