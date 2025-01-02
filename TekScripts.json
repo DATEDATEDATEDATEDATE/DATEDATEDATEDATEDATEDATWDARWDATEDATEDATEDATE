@@ -18,12 +18,6 @@
     "senha": null
   },
   {
-    "nome": "tek-Aimbot Button V2~✅",
-    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Q1Kpbqqm\"))()",
-    "name": "aimbot-betaV2",
-    "senha": "freebeta827"
-  },
-  {
     "nome": "spam velocity animações~❎",
     "conteudo": "loadstring(game:HttpGet('https://pastebin.com/raw/50fi2Fdc'))()",
     "name": "spam velocity animações",
@@ -34,5 +28,11 @@
     "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/NhHbxr3p\"))()",
     "name": "Pack animações inicialização Tek",
     "senha": null
+  },
+  {
+    "nome": "tek-Aimbot Button V2~✅",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Q1Kpbqqm\"))()",
+    "name": "aimbot-betaV2",
+    "senha": "freebeta827"
   }
 ]
