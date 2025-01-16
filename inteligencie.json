@@ -1,0 +1,32 @@
+{
+    "apis": [
+        {
+            "name": "LinkVertise",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/linkvertise?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "trigon",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/trigon?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "fluxo",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/fluxus?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        },
+        {
+            "name": "delta",
+            "url": "https://api-bypass.robloxexecutorth.workers.dev/delta?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "key"
+        }
+    ]
+}
