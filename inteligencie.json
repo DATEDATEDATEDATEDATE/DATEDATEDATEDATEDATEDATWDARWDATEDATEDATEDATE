@@ -1,35 +1,42 @@
 {
     "apis": [
         {
-            "name": "LinkVertise",
+            "name": "bypass1",
             "url": "https://api-bypass.robloxexecutorth.workers.dev/linkvertise?url={url}",
             "method": "GET",
             "parse_json": true,
             "response_key": "key"
         },
         {
-            "name": "testhub",
+            "name": "bypass2",
             "url": "http://fi4.bot-hosting.net:22869/TestHubaddlink?link={url}",
             "method": "GET",
             "parse_json": true,
             "response_key": "result"
         },
         {
-            "name": "trigon",
+            "name": "bypass3",
             "url": "https://api-bypass.robloxexecutorth.workers.dev/trigon?url={url}",
             "method": "GET",
             "parse_json": true,
             "response_key": "key"
         },
         {
-            "name": "fluxo",
+            "name": "bypass4",
+            "url": "https://iwoozie.baby/api/free/bypass?url={url}",
+            "method": "GET",
+            "parse_json": true,
+            "response_key": "result"
+        },
+        {
+            "name": "bypass5",
             "url": "https://api-bypass.robloxexecutorth.workers.dev/fluxus?url={url}",
             "method": "GET",
             "parse_json": true,
             "response_key": "key"
         },
         {
-            "name": "delta",
+            "name": "bypass6",
             "url": "https://api-bypass.robloxexecutorth.workers.dev/delta?url={url}",
             "method": "GET",
             "parse_json": true,
