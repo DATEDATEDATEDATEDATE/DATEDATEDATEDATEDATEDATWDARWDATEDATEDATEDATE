@@ -3440,6 +3440,11 @@
         "data": "2025-01-20-08"
     },
     {
+        "script": "auto piano v3~🔑✅",
+        "conteudo": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Madness676/3.2Lol/main/AutoPiano3-2.lua\", true))()",
+        "data": "2025-01-20-19"
+    },
+    {
         "script": "bonk hub - fish~➖🔑",
         "conteudo": "loadstring(game:HttpGet(''\"https://bonkhubloader.netlify.app\",true'''))()",
         "data": "2025-01-11-02"
