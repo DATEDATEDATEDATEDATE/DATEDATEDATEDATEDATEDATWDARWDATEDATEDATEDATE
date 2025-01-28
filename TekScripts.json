@@ -30,6 +30,12 @@
     "senha": null
   },
   {
+    "nome": "spam auto comfig arma spam tiros não visual~❎",
+    "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/kDU7qpJ2"))()",
+    "name": "spam tiros",
+    "senha": null
+  }
+  {
     "nome": "tek-Aimbot Button V2~✅",
     "conteudo": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Q1Kpbqqm\"))()",
     "name": "aimbot-betaV2",
